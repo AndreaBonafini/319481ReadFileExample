@@ -1,0 +1,13 @@
+﻿Robert, De Niro
+Jack, Nicholson
+Marlon, Brando
+Tom, Hanks
+Humphrey, Bogart
+Leonardo, DiCaprio
+Johnny, Depp
+Al, Pacino
+Denzel, Washington
+Daniel, Day-Lewis
+Laurence ,,Olivier
+Brad, Pitt
+Cary, Grant
